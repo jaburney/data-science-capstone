@@ -1,12 +1,19 @@
 # Data Science Capstone
 ### Land Use Change Dynamics
 
+Prof. Jen Burney, GPS
 Fall Quarter (2021)
 
 Please make sure to do the listed tasks *for* that week's class meeting.
 
 --- 
-**Week 1** - Introduction to land-use change.
+**Week 1** - Logistics!
+
+Meeting Time - Wednesdays 9-10AM via [Zoom](https://ucsd.zoom.us/j/8585344149?pwd=U1VoZlVuNmZuenpHY3dBSUV3SVhsZz09)
+Office Hours - TBD / By appointment (shoot me an email! jburney@ucsd.edu)
+
+--- 
+**Week 2** - Introduction to land-use change.
 
 What do we mean by land use? Land use change? How do we measure these quantities using satellite remote sensing imagery?
 
@@ -16,7 +23,7 @@ What do we mean by land use? Land use change? How do we measure these quantities
 + Burke & Lobell. *PNAS* (2017) [Satellite-based assessment of yield variation and its determinants in smallholder African systems](https://www.pnas.org/content/114/9/2189).
 
 ---
-**Week 2** - Introduction to Google Earth Engine and Colab Interface
+**Week 3** - Introduction to Google Earth Engine and Colab Interface
 
 Google Earth Engine contains a huge amount of processed satellite imagery and reflectance data stored as latitude-longitude raster data. This quarter, we will use Google Colab for ease of interface with these data sources. This week, you need to get yourself set up to use Earth Engine data by doing the following:
 
@@ -29,7 +36,7 @@ Google Earth Engine contains a huge amount of processed satellite imagery and re
 For the future, you can also access Earth Engine data and commands via your own python installation ([see here](https://developers.google.com/earth-engine/guides/python_install)). 
 
 ---
-**Week 3** - Vegetation Indices, Time Averaging
+**Week 4** - Vegetation Indices, Time Averaging
 
 Please read about Vegetation Indices:
 
@@ -44,7 +51,7 @@ For this week:
 4. Make a figure, set of figures, or animation of your monthly data using a interactive map. (More on [interactive maps in Python with Folium](https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-raster-plots/interactive-maps/).)
 
 ---
-**Week 4** - Cloud Screening and Quality Control
+**Week 5** - Cloud Screening and Quality Control
 
 Please complete [this cloud masking tutorial](https://developers.google.com/earth-engine/tutorials/community/sentinel-2-s2cloudless).
 
@@ -55,24 +62,21 @@ Questions for this week:
 + How might your analysis be biased by clouds?
 
 ---
-**Week 5** - Feature Classes (Spatial Summaries)
+**Week 6** - Feature Classes (Spatial Summaries)
 
 Read about [Feature Classes](https://colab.research.google.com/github/csaybar/EEwPython/blob/master/4_features.ipynb) and [Spatial Reducers](https://colab.research.google.com/github/csaybar/EEwPython/blob/master/5_Reducer.ipynb).
 
 Your goal this week is to calculate mean, minimum, and maximum VI values for your region of interest, aggregated over administrative boundaries.
 
 ---
-**Week 6** - Trend Analysis
+**Week 7** - Trend Analysis
 
 This week, write code to calculate trends in vegetation indices both as rasters (plot this), and aggregated over administrative boundaries. There are several ways to do this, including exporting to data frame. 
 
 ---
-**Week 7** - Ramp-Up Summary
+**Week 8** - Ramp-Up Summary, Proposal Ideas
 
 This week is a moment to review, perhaps go back and revise or tweak your analysis, comment your code, and add some presentation flair to your ramp-up analysis.
-
----
-**Week 8** - Proposal Ideas
 
 Come prepared to talk project ideas with the group. 
 
