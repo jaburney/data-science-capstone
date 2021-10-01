@@ -10,6 +10,7 @@ Please make sure to do the listed tasks *for* that week's class meeting.
 **Week 1** - Logistics!
 
 Meeting Time - Wednesdays 9-10AM via [Zoom](https://ucsd.zoom.us/j/8585344149?pwd=U1VoZlVuNmZuenpHY3dBSUV3SVhsZz09)
+
 Office Hours - TBD / By appointment (shoot me an email! jburney@ucsd.edu)
 
 --- 
